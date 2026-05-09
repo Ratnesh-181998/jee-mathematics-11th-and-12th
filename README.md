@@ -126,6 +126,10 @@ This repository contains important Mathematics topics for:
 ##  11th MATHEMATICS
 
 ### 11th ALGEBRA
+<img width="1574" height="1196" alt="image" src="https://github.com/user-attachments/assets/b74862d9-3441-430d-94f0-06ddcba3461d" />
+<img width="1570" height="1098" alt="image" src="https://github.com/user-attachments/assets/ee1961a9-4280-4711-a0b9-c4673fb30cf5" />
+<img width="2232" height="1162" alt="image" src="https://github.com/user-attachments/assets/c7757e5b-77ca-48e4-9ee5-f09b4e2ce7c5" />
+<img width="1816" height="1136" alt="image" src="https://github.com/user-attachments/assets/6216ebed-3d79-4326-9e4d-f6516a93a0fa" />
 
 #### 1. Fundamental Of Mathematics
 
@@ -195,6 +199,10 @@ This repository contains important Mathematics topics for:
 ## 12th MATHEMATICS
 
 ### 12th ALGEBRA
+<img width="1574" height="1196" alt="image" src="https://github.com/user-attachments/assets/b74862d9-3441-430d-94f0-06ddcba3461d" />
+<img width="1570" height="1098" alt="image" src="https://github.com/user-attachments/assets/ee1961a9-4280-4711-a0b9-c4673fb30cf5" />
+<img width="2232" height="1162" alt="image" src="https://github.com/user-attachments/assets/c7757e5b-77ca-48e4-9ee5-f09b4e2ce7c5" />
+<img width="2326" height="988" alt="image" src="https://github.com/user-attachments/assets/dbcdaf1e-d87c-466d-8c02-1b433f3d269b" />
 
 #### 1. MATRICES AND DETERMINED
 

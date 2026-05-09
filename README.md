@@ -9,7 +9,9 @@
 
 # SHORT SUMMARY ( BY RATNESH KUMAR SINGH | RESONANCE KOTA )
 
-## RESONANCE ( KOTA Rajasthan ): https://www.resonance.ac.in/
+## RESONANCE ( KOTA Rajasthan | INDIA ): https://www.resonance.ac.in/
+<img width="1238" height="1296" alt="image" src="https://github.com/user-attachments/assets/a7ca02f1-3e93-4a44-9030-545f7cadaace" />
+
 
 ## JEE 2015 Mathematics (11th & 12th) 
 

@@ -8,7 +8,7 @@
 
 ---
 
-# jee-mathematics-11th-and-12th
+# JEE2015 MATHEMATICS 11th AND 12th
 jee math 11th and 12th
 
 

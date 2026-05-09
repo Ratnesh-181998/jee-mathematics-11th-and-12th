@@ -182,6 +182,9 @@ This repository contains important Mathematics topics for:
 ---
 
 ### 11th TRIGONOMETRY
+<img width="882" height="1202" alt="image" src="https://github.com/user-attachments/assets/e973b9ef-c683-4c03-afd0-e9fdab050bb5" />
+<img width="866" height="980" alt="image" src="https://github.com/user-attachments/assets/aba3bba0-31d8-4e90-9ca2-0b13709cfef2" />
+<img width="790" height="1088" alt="image" src="https://github.com/user-attachments/assets/d3e47d62-561c-4096-8449-b65ca1ffd265" />
 
 #### 1. TRIGONOMETRIC 
 
@@ -222,6 +225,11 @@ This repository contains important Mathematics topics for:
 
 
 ---
+
+<img width="1552" height="1182" alt="image" src="https://github.com/user-attachments/assets/70c03003-1b1e-4660-a9be-36c65ad56663" />
+<img width="712" height="1118" alt="image" src="https://github.com/user-attachments/assets/5527f6ee-6918-4938-bb1f-90ddb4a042d9" />
+<img width="816" height="1132" alt="image" src="https://github.com/user-attachments/assets/21dcfddb-38f4-436a-96b2-fe0cca7cf993" />
+<img width="870" height="1092" alt="image" src="https://github.com/user-attachments/assets/e6d1ecb4-fb9d-4bdd-8716-f09d16ef1c5a" />
 
 ### 11th Extra TOPICS (MAINS TOPICS)
 

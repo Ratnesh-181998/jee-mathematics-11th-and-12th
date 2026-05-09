@@ -197,16 +197,28 @@ This repository contains important Mathematics topics for:
 ---
 
 ### 11th CO-ORDINATE GEOMETRIC
+<img width="862" height="1190" alt="image" src="https://github.com/user-attachments/assets/a1629dc2-0033-4764-9343-708e8dd68428" />
+<img width="822" height="992" alt="image" src="https://github.com/user-attachments/assets/ddc1672d-a224-4fb8-a56d-7f080363d292" />
+<img width="730" height="1162" alt="image" src="https://github.com/user-attachments/assets/d31dd1a2-b631-4f5f-82ce-95ec0258bb07" />
+<img width="1054" height="1272" alt="image" src="https://github.com/user-attachments/assets/c4348662-6345-4284-a9ed-3af876316358" />
 
 #### 1. STRAIGHT LINE
+<img width="894" height="1234" alt="image" src="https://github.com/user-attachments/assets/67002a69-864c-46c9-a9e4-e4678a5f04a7" />
+<img width="842" height="1252" alt="image" src="https://github.com/user-attachments/assets/d7c3d8bc-bbfd-45e5-ba28-566215b4c990" />
 
 #### 2. CIRCLE 
+<img width="886" height="1284" alt="image" src="https://github.com/user-attachments/assets/dc997996-cf40-4179-bda9-f505d73a3b6f" />
+<img width="1614" height="1236" alt="image" src="https://github.com/user-attachments/assets/bf3af79e-e64d-4cee-885b-fcb70b1f2f4c" />
 
 #### 3. PARABOLA ( CONIC SECTIONS )
+<img width="970" height="1236" alt="image" src="https://github.com/user-attachments/assets/59d42a12-35d2-4b15-845d-f383c2661690" />
+<img width="846" height="1202" alt="image" src="https://github.com/user-attachments/assets/6574aaae-f91d-4ae2-b40e-b3dc61211f0c" />
 
 #### 4. ECLIPSE ( CONIC SECTIONS )
+<img width="822" height="1262" alt="image" src="https://github.com/user-attachments/assets/134779f2-b5df-47de-87e8-ac358b2ebdca" />
 
 #### 5. HYPERPARABOLA ( CONIC SECTIONS )
+<img width="818" height="1264" alt="image" src="https://github.com/user-attachments/assets/d5c990b0-8e30-42ff-b05e-8809850423d0" />
 
 
 ---

@@ -6,9 +6,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
----
-
 # JEE2015 MATHEMATICS 11th AND 12th
+
+<img width="1530" height="1268" alt="image" src="https://github.com/user-attachments/assets/9edd5262-2bb4-4555-9fac-0516928373a0" />
 
 
 ---

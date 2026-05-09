@@ -25,8 +25,20 @@
 # 11th Algebra
 
 - Fundamental of Mathematics
+  <img width="946" height="1198" alt="image" src="https://github.com/user-attachments/assets/f47f4fb8-ffc5-4671-99d2-76419eed336d" />
+  <img width="1552" height="1098" alt="image" src="https://github.com/user-attachments/assets/874b21b0-4585-49d6-966d-6529ba3a3b29" />
+  <img width="1582" height="1126" alt="image" src="https://github.com/user-attachments/assets/03bb0d11-7eee-4080-892d-f6b71e772bed" />
+
 - Quadratic Equations
+  <img width="940" height="1172" alt="image" src="https://github.com/user-attachments/assets/60f1889f-cebb-46ca-a9dd-1fc41975d5da" />
+  <img width="826" height="1162" alt="image" src="https://github.com/user-attachments/assets/f0ff445f-38b0-46e2-ae20-abb3a30bdd2b" />
+  <img width="1576" height="1126" alt="image" src="https://github.com/user-attachments/assets/c4141741-5044-4fff-aa5b-ef7349dc00fa" />
+
 - Sequence and Series
+  <img width="938" height="1212" alt="image" src="https://github.com/user-attachments/assets/4459b03e-8abb-46fd-8543-233414bbec00" />
+  <img width="848" height="1146" alt="image" src="https://github.com/user-attachments/assets/af9130b4-6018-42d0-9d41-280bc16327fa" />
+  <img width="1790" height="1208" alt="image" src="https://github.com/user-attachments/assets/b87b77f2-97ea-430f-beeb-4c5fef3796df" />
+
 - Binomial Theorem
 - Complex Numbers
 - Probability and Statistics

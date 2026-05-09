@@ -85,7 +85,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+
 ## 12th MATHEMATICS
+
+### 12th ALGEBRA
+
+#### 1. MATRICES AND DETERMINED
+
+#### 2. VECTOR AND THREE DIMENSIONAL GEOMETRAY 
+
+---
+
+### 12th INTEGRAL CALCULUS ( CALCULUS -PART 1 )
+
+#### 1. FUNCTIONS & INVERSE TRIGONOMETRIC FUNCTIONS
+
+#### 2. LIMITS , CONTINUTY AND DERVABILITY
+
+#### 3. APPLICATION OF DERIVATIVES
+
+---
+
+### 12th  DIFFERENTIAL CALCULUS ( CALCULUS -PART 2 )
+
+#### 1. INDEFINITS INTEGRATION 
+
+#### 2. DEFINITE INTEGRATION 
+
+#### 3. DIFFERENTIAL EQUATIONS 
+
 
 ---
 

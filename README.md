@@ -25,23 +25,11 @@
 # 11th Algebra
 
 - Fundamental of Mathematics
-  <img width="946" height="1198" alt="image" src="https://github.com/user-attachments/assets/f47f4fb8-ffc5-4671-99d2-76419eed336d" />
-  <img width="1552" height="1098" alt="image" src="https://github.com/user-attachments/assets/874b21b0-4585-49d6-966d-6529ba3a3b29" />
-  <img width="1582" height="1126" alt="image" src="https://github.com/user-attachments/assets/03bb0d11-7eee-4080-892d-f6b71e772bed" />
-
 - Quadratic Equations
-  <img width="940" height="1172" alt="image" src="https://github.com/user-attachments/assets/60f1889f-cebb-46ca-a9dd-1fc41975d5da" />
-  <img width="826" height="1162" alt="image" src="https://github.com/user-attachments/assets/f0ff445f-38b0-46e2-ae20-abb3a30bdd2b" />
-  <img width="1576" height="1126" alt="image" src="https://github.com/user-attachments/assets/c4141741-5044-4fff-aa5b-ef7349dc00fa" />
-
 - Sequence and Series
-  <img width="938" height="1212" alt="image" src="https://github.com/user-attachments/assets/4459b03e-8abb-46fd-8543-233414bbec00" />
-  <img width="848" height="1146" alt="image" src="https://github.com/user-attachments/assets/af9130b4-6018-42d0-9d41-280bc16327fa" />
-  <img width="1790" height="1208" alt="image" src="https://github.com/user-attachments/assets/b87b77f2-97ea-430f-beeb-4c5fef3796df" />
-
 - Binomial Theorem
 - Complex Numbers
-- Probability and Statistics
+- Probability 
 - Permutation and Combination
 
 ---
@@ -142,6 +130,7 @@ This repository contains important Mathematics topics for:
 ##  11th MATHEMATICS
 
 ### 11th ALGEBRA
+
 <img width="1574" height="1196" alt="image" src="https://github.com/user-attachments/assets/b74862d9-3441-430d-94f0-06ddcba3461d" />
 <img width="1570" height="1098" alt="image" src="https://github.com/user-attachments/assets/ee1961a9-4280-4711-a0b9-c4673fb30cf5" />
 <img width="2232" height="1162" alt="image" src="https://github.com/user-attachments/assets/c7757e5b-77ca-48e4-9ee5-f09b4e2ce7c5" />
@@ -149,17 +138,32 @@ This repository contains important Mathematics topics for:
 
 #### 1. Fundamental Of Mathematics
 
+<img width="946" height="1198" alt="image" src="https://github.com/user-attachments/assets/f47f4fb8-ffc5-4671-99d2-76419eed336d" />
+<img width="1552" height="1098" alt="image" src="https://github.com/user-attachments/assets/874b21b0-4585-49d6-966d-6529ba3a3b29" />
+<img width="1582" height="1126" alt="image" src="https://github.com/user-attachments/assets/03bb0d11-7eee-4080-892d-f6b71e772bed" />
+
 #### 2. Quadratic Equestions
+
+<img width="940" height="1172" alt="image" src="https://github.com/user-attachments/assets/60f1889f-cebb-46ca-a9dd-1fc41975d5da" />
+<img width="826" height="1162" alt="image" src="https://github.com/user-attachments/assets/f0ff445f-38b0-46e2-ae20-abb3a30bdd2b" />
+<img width="1576" height="1126" alt="image" src="https://github.com/user-attachments/assets/c4141741-5044-4fff-aa5b-ef7349dc00fa" />
 
 #### 3. Sequence and Series 
 
+<img width="938" height="1212" alt="image" src="https://github.com/user-attachments/assets/4459b03e-8abb-46fd-8543-233414bbec00" />
+<img width="848" height="1146" alt="image" src="https://github.com/user-attachments/assets/af9130b4-6018-42d0-9d41-280bc16327fa" />
+<img width="1790" height="1208" alt="image" src="https://github.com/user-attachments/assets/b87b77f2-97ea-430f-beeb-4c5fef3796df" />
+
+
 #### 4. Binomial Theorem's
+
+<img width="812" height="1256" alt="image" src="https://github.com/user-attachments/assets/f763e266-7e96-4242-b1a2-a38bcbc887f9" />
 
 
 #### 5. Complex Number's
 
 
-#### 6. Probability and Statistics
+#### 6. Probability 
 
 
 #### 7. Permutation and Combination

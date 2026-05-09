@@ -161,12 +161,19 @@ This repository contains important Mathematics topics for:
 
 
 #### 5. Complex Number's
+<img width="806" height="966" alt="image" src="https://github.com/user-attachments/assets/448de041-8849-4b68-86a0-9cf2f4b81cc8" />
+<img width="1306" height="918" alt="image" src="https://github.com/user-attachments/assets/5f196072-e70a-4a55-b344-388f2497cd56" />
 
 
 #### 6. Probability 
+<img width="978" height="1218" alt="image" src="https://github.com/user-attachments/assets/1acbc22a-886f-479a-ae52-a0413fb17c97" />
+<img width="868" height="1244" alt="image" src="https://github.com/user-attachments/assets/8ebd1861-cedc-457e-81e8-130568e235aa" />
+<img width="1612" height="1200" alt="image" src="https://github.com/user-attachments/assets/e7648fcf-ed85-4f07-a90f-f6388695d82f" />
 
 
 #### 7. Permutation and Combination
+<img width="888" height="1188" alt="image" src="https://github.com/user-attachments/assets/f8f1cf1b-ef39-41b5-b632-23f72bc9b69f" />
+<img width="1656" height="1186" alt="image" src="https://github.com/user-attachments/assets/701c6b5b-eb5f-4274-bac9-3a402ba924ca" />
 
 ---
 

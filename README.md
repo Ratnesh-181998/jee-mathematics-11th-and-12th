@@ -252,7 +252,14 @@ This repository contains important Mathematics topics for:
 
 ---
 
-### 12th INTEGRAL CALCULUS ( CALCULUS -PART 1 )
+### 12th  DIFFERENTIAL CALCULUS ( CALCULUS -PART 1 )
+
+<img width="894" height="1194" alt="image" src="https://github.com/user-attachments/assets/faa5c4c0-0a5b-4c08-a9da-eefa383354dd" />
+<img width="790" height="1150" alt="image" src="https://github.com/user-attachments/assets/ea3046d8-b10c-48b4-8347-7a6cf284f265" />
+<img width="760" height="1186" alt="image" src="https://github.com/user-attachments/assets/e4a9793b-a7c4-4d1c-8908-02000baf86aa" />
+<img width="758" height="1164" alt="image" src="https://github.com/user-attachments/assets/b9f6e5f3-e916-4b79-8ece-682806a2d866" />
+<img width="926" height="1192" alt="image" src="https://github.com/user-attachments/assets/3973204b-0109-49a6-9bbf-80ab2e4587ac" />
+
 
 #### 1. FUNCTIONS & INVERSE TRIGONOMETRIC FUNCTIONS
 
@@ -262,13 +269,31 @@ This repository contains important Mathematics topics for:
 
 ---
 
-### 12th  DIFFERENTIAL CALCULUS ( CALCULUS -PART 2 )
+### 12th INTEGRAL CALCULUS ( CALCULUS -PART 2 )
+<img width="834" height="1192" alt="image" src="https://github.com/user-attachments/assets/43ac3cba-8b00-4504-b6f8-224dfaa9e925" />
+<img width="1628" height="1098" alt="image" src="https://github.com/user-attachments/assets/68c3bb35-c755-489f-93a0-44afcb5ca264" />
+<img width="760" height="1126" alt="image" src="https://github.com/user-attachments/assets/05906b53-e6af-4bc0-825f-b93c99e52f86" />
+<img width="1534" height="1232" alt="image" src="https://github.com/user-attachments/assets/03c72b23-fc77-40be-982c-98e47971f8b8" />
+
+<img width="926" height="1192" alt="image" src="https://github.com/user-attachments/assets/3973204b-0109-49a6-9bbf-80ab2e4587ac" />
+
 
 #### 1. INDEFINITS INTEGRATION 
 
-#### 2. DEFINITE INTEGRATION 
+<img width="830" height="1184" alt="image" src="https://github.com/user-attachments/assets/685d8835-61a3-4d7c-9f8a-89cb7a867d82" />
+<img width="822" height="1166" alt="image" src="https://github.com/user-attachments/assets/af5ea5fb-8baf-424b-a43f-4ea95b6e1bec" />
+<img width="1588" height="1184" alt="image" src="https://github.com/user-attachments/assets/8e45636b-513c-4bfa-a469-f5cbd6ad74e5" />
+
+
+#### 2. DEFINITE INTEGRATION AND ITS APPLICATION'S 
+<img width="882" height="1198" alt="image" src="https://github.com/user-attachments/assets/7890f592-c2e1-4fc4-926a-d5d070c46341" />
+<img width="1656" height="1124" alt="image" src="https://github.com/user-attachments/assets/9bbb52b0-c30f-4bea-9617-21d9701a04b8" />
+
 
 #### 3. DIFFERENTIAL EQUATIONS 
+<img width="794" height="1188" alt="image" src="https://github.com/user-attachments/assets/76178053-aa32-45df-9f72-6b38a2b55f27" />
+<img width="1596" height="1160" alt="image" src="https://github.com/user-attachments/assets/30746180-1de9-4e1e-9b53-96acd2c8235c" />
+
 
 
 ---

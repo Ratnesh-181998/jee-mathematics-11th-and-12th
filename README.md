@@ -258,15 +258,20 @@ This repository contains important Mathematics topics for:
 <img width="790" height="1150" alt="image" src="https://github.com/user-attachments/assets/ea3046d8-b10c-48b4-8347-7a6cf284f265" />
 <img width="760" height="1186" alt="image" src="https://github.com/user-attachments/assets/e4a9793b-a7c4-4d1c-8908-02000baf86aa" />
 <img width="758" height="1164" alt="image" src="https://github.com/user-attachments/assets/b9f6e5f3-e916-4b79-8ece-682806a2d866" />
-<img width="926" height="1192" alt="image" src="https://github.com/user-attachments/assets/3973204b-0109-49a6-9bbf-80ab2e4587ac" />
 <img width="1534" height="1232" alt="image" src="https://github.com/user-attachments/assets/03c72b23-fc77-40be-982c-98e47971f8b8" />
 
-
 #### 1. FUNCTIONS & INVERSE TRIGONOMETRIC FUNCTIONS
+<img width="912" height="1166" alt="image" src="https://github.com/user-attachments/assets/a832ccf8-106f-4b00-afb8-1909b0b7737d" />
+<img width="1568" height="1192" alt="image" src="https://github.com/user-attachments/assets/7d862032-c834-44d8-8d5b-b0156ef99d63" />
 
 #### 2. LIMITS , CONTINUTY AND DERVABILITY
+<img width="900" height="1182" alt="image" src="https://github.com/user-attachments/assets/c1643fc7-ea47-4101-9d27-4df777c5b3c5" />
+<img width="804" height="1166" alt="image" src="https://github.com/user-attachments/assets/cc46fdba-f6aa-4fc5-9782-4fb461d0e7ec" />
 
 #### 3. APPLICATION OF DERIVATIVES
+<img width="830" height="1188" alt="image" src="https://github.com/user-attachments/assets/4e35f2c7-d57c-4e75-8a0e-52160a6725c5" />
+<img width="1572" height="1154" alt="image" src="https://github.com/user-attachments/assets/82741e63-4988-4ce8-8eb6-e7da94e08096" />
+<img width="802" height="1192" alt="image" src="https://github.com/user-attachments/assets/2b6b863d-044a-45eb-8071-af2b13094705" />
 
 ---
 
@@ -275,24 +280,19 @@ This repository contains important Mathematics topics for:
 <img width="1628" height="1098" alt="image" src="https://github.com/user-attachments/assets/68c3bb35-c755-489f-93a0-44afcb5ca264" />
 <img width="926" height="1192" alt="image" src="https://github.com/user-attachments/assets/3973204b-0109-49a6-9bbf-80ab2e4587ac" />
 
-
 #### 1. INDEFINITS INTEGRATION 
 
 <img width="830" height="1184" alt="image" src="https://github.com/user-attachments/assets/685d8835-61a3-4d7c-9f8a-89cb7a867d82" />
 <img width="822" height="1166" alt="image" src="https://github.com/user-attachments/assets/af5ea5fb-8baf-424b-a43f-4ea95b6e1bec" />
 <img width="1588" height="1184" alt="image" src="https://github.com/user-attachments/assets/8e45636b-513c-4bfa-a469-f5cbd6ad74e5" />
 
-
 #### 2. DEFINITE INTEGRATION AND ITS APPLICATION'S 
 <img width="882" height="1198" alt="image" src="https://github.com/user-attachments/assets/7890f592-c2e1-4fc4-926a-d5d070c46341" />
 <img width="1656" height="1124" alt="image" src="https://github.com/user-attachments/assets/9bbb52b0-c30f-4bea-9617-21d9701a04b8" />
 
-
 #### 3. DIFFERENTIAL EQUATIONS 
 <img width="794" height="1188" alt="image" src="https://github.com/user-attachments/assets/76178053-aa32-45df-9f72-6b38a2b55f27" />
 <img width="1596" height="1160" alt="image" src="https://github.com/user-attachments/assets/30746180-1de9-4e1e-9b53-96acd2c8235c" />
-
-
 
 ---
 

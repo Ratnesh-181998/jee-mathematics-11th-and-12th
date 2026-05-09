@@ -7,9 +7,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
-# SHORT SUMMARY 
+# SHORT SUMMARY ( BY RATNESH KUMAR SINGH | RESONANCE KOTA )
 
-## JEE 2015 Mathematics (11th & 12th)
+## RESONANCE ( KOTA Rajasthan ): https://www.resonance.ac.in/
+
+## JEE 2015 Mathematics (11th & 12th) 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=6" width="100%">
 

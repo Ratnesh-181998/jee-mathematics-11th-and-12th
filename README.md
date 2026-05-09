@@ -6,6 +6,108 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+
+# SHORT SUMMARY 
+
+# JEE 2015 Mathematics (11th & 12th)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=6" width="100%">
+
+## 📘 11th Mathematics
+
+---
+
+# 11th Algebra
+
+- Fundamental of Mathematics
+- Quadratic Equations
+- Sequence and Series
+- Binomial Theorem
+- Complex Numbers
+- Probability and Statistics
+- Permutation and Combination
+
+---
+
+# 11th Trigonometry
+
+- Trigonometric Functions
+- Trigonometric Equations
+- Solution of Triangles
+- Inverse Trigonometric Functions
+
+---
+
+# 11th Coordinate Geometry
+
+- Straight Line
+- Circle
+- Parabola (Conic Sections)
+- Ellipse (Conic Sections)
+- Hyperbola (Conic Sections)
+
+---
+
+# 11th Extra Topics (Mains Topics)
+
+- Sets and Relations
+- Mathematical Reasoning
+- Statistics
+- Heights and Distances
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=6" width="100%">
+
+## 📙 12th Mathematics
+
+---
+
+# 12th Algebra
+
+- Matrices and Determinants
+- Vector and Three-Dimensional Geometry
+
+---
+
+# 12th Calculus – Part 1
+
+- Functions & Inverse Trigonometric Functions
+- Limits, Continuity and Differentiability
+- Applications of Derivatives
+
+---
+
+# 12th Calculus – Part 2
+
+- Indefinite Integration
+- Definite Integration
+- Differential Equations
+
+---
+
+## 🚀 Exam Focus
+
+This repository contains important Mathematics topics for:
+
+- JEE Main
+- JEE Advanced
+- Board Exams
+- Competitive Examinations
+
+---
+
+## 📌 Notes
+
+- Covers Class 11th & 12th Mathematics
+- Useful for revision and practice
+- Organized topic-wise for easy navigation
+
+
+
+
+---
+
 # JEE2015 MATHEMATICS 11th AND 12th
 
 <img width="1530" height="1268" alt="image" src="https://github.com/user-attachments/assets/9edd5262-2bb4-4555-9fac-0516928373a0" />

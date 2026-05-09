@@ -9,9 +9,15 @@
 
 # SHORT SUMMARY 
 
-# JEE 2015 Mathematics (11th & 12th)
+## JEE 2015 Mathematics (11th & 12th)
+
+<img width="1530" height="1268" alt="image" src="https://github.com/user-attachments/assets/9edd5262-2bb4-4555-9fac-0516928373a0" />
+<img width="796" height="1172" alt="image" src="https://github.com/user-attachments/assets/657eaab7-18f6-47dc-a465-67197511331b" />
+<img width="762" height="1172" alt="image" src="https://github.com/user-attachments/assets/bcec15ff-fc6a-4ad0-ab61-498cca4f014f" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=6" width="100%">
+
 
 ## 📘 11th Mathematics
 
@@ -105,15 +111,13 @@ This repository contains important Mathematics topics for:
 
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 ---
 
-# JEE2015 MATHEMATICS 11th AND 12th
+# DETAIL'S CONTENT'S
 
-<img width="1530" height="1268" alt="image" src="https://github.com/user-attachments/assets/9edd5262-2bb4-4555-9fac-0516928373a0" />
-<img width="796" height="1172" alt="image" src="https://github.com/user-attachments/assets/657eaab7-18f6-47dc-a465-67197511331b" />
-<img width="762" height="1172" alt="image" src="https://github.com/user-attachments/assets/bcec15ff-fc6a-4ad0-ab61-498cca4f014f" />
-
+## JEE 2015 Mathematics (11th & 12th)
 
 ---
 
